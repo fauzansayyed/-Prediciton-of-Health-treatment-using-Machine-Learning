@@ -3,7 +3,8 @@ The Aim of development of this project is to do Prediction on treatment required
 It is MultiTarget variable project.
 ## Code
 
-You can find the final code file [here](./-Prediction-of-Health-treatment-using-Machine-Learning/Final%20Code%20for%20ML.pdf).
+You can find the final code file [here](https://github.com/fauzansayyed/-Prediciton-of-Health-treatment-using-Machine-Learning/blob/main/Final%20Code%20for%20ML%20.pdf).
+
 
 
 **Project Overview:**
