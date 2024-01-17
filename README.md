@@ -1,6 +1,6 @@
 # Prediciton of Health treatment using Machine Learning
 The Aim of development of this project is to do Prediction on treatment required for Health illness with respective parameter.
-It is MultiTarget variavle project.
+It is MultiTarget variable project.
 
 #**Project Overview:**
 **Precision in Healthcare Decisions:**
@@ -17,9 +17,13 @@ Efficient prediction of treatment plans helps in optimizing resource allocation 
 4. Seaborn
 
 # **Model Building**
-1. Decision Tree
-2. Logistic Regression
-3. Random Forest
-4. Support Vector Machine
-5. ADABoost
-6. Gradient Boosting
+1. NaveBayes
+2. Decision Tree
+3. Logistic Regression
+4. Random Forest
+5. Support Vector Machine
+6. ADABoost
+7. Gradient Boosting
+
+# **Output**
+Model Build with NaveBayes giving good Results with Precesion 85%.
