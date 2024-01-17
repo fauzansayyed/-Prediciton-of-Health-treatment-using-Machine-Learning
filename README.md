@@ -71,4 +71,8 @@ Feel free to explore the codebase, experiment with different models, and contrib
 
 If you have any questions or suggestions, please don't hesitate to reach out. Thank you for your interest in our Health Treatment Prediction project!
 
+## Code
+
+You can find the final code file [here](https://github.com/fauzansayyed/-Prediciton-of-Health-treatment-using-Machine-Learning/blob/main/Final%20Code%20for%20ML%20.pdf).
+
 
