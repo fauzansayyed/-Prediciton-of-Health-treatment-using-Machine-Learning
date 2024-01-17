@@ -2,7 +2,7 @@
 The Aim of development of this project is to do Prediction on treatment required for Health illness with respective parameter.
 It is MultiTarget variable project.
 
-#**Project Overview:**
+**Project Overview:**
 **Precision in Healthcare Decisions:**
 By integrating machine learning into healthcare, the project aims to provide precise and personalized treatment recommendations, reducing guesswork and enhancing patient care.
 
