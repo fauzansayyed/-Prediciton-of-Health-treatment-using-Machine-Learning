@@ -1,6 +1,9 @@
 # Prediciton of Health treatment using Machine Learning
 The Aim of development of this project is to do Prediction on treatment required for Health illness with respective parameter.
 It is MultiTarget variable project.
+## Code
+
+You can find the main code file [here](./Final Code for ML .pdf).
 
 **Project Overview:**
 **Precision in Healthcare Decisions:**
