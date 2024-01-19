@@ -3,6 +3,11 @@
 
 Welcome to the Prediction project! The primary goal of this project is to predict Target based on specific parameters, allowing users to make informed decisions when choosing a product category. This is a MultiTarget variable project aimed at improving the precision and personalization of choices in the retail sector.
 
+## Code
+
+You can find the final code file [here](https://github.com/fauzansayyed/Python-Machine-Learning/blob/main/Final%20Code%20for%20ML2%20-%20Jupyter%20Notebook.pdf).
+
+
 ## Project Overview
 
 **Precision in Decision-Making:**
@@ -34,8 +39,5 @@ After rigorous model building and evaluation, the Naive Bayes model stands out, 
 
 Feel free to explore the codebase, experiment with different models, and contribute to the ongoing development of this impactful project. Your involvement could help shape the future of precision retail and customer experience optimization.
 
-## Code
-
-You can find the final code file [here](https://github.com/fauzansayyed/-Prediciton-of-Health-treatment-using-Machine-Learning/blob/main/Final%20Code%20for%20ML%20.pdf).
 
 
