@@ -5,7 +5,7 @@ Welcome to the Prediction project! The primary goal of this project is to predic
 
 ## Code
 
-You can find the final code file [here](https://github.com/fauzansayyed/Python-Machine-Learning/blob/main/Final%20Code%20for%20ML2%20-%20Jupyter%20Notebook.pdf).
+You can find the final code file [here](https://github.com/fauzansayyed/Python-Machine-Learning/blob/main/Code.ipynb).
 
 
 ## Project Overview
